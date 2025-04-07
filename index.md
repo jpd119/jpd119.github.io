@@ -1,9 +1,9 @@
 ---
 ---
 
-# jpd119's Website
+# AutoPro란?
 
-An engaging 1-3 sentence description of your lab.
+매번 하시기 힘든 구인구직 글, 글 점프를 편리하게 자동으로 처리 해 줄 수 있는 프로그램입니다.
 
 {% include section.html %}
 
