@@ -31,7 +31,7 @@
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/photo2.jpg"
   link="/"
   title="프로그램 실행 방법"
   text=text
@@ -45,7 +45,7 @@
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/photo3.jpg"
   link="/"
   title="프로그램 실행 방법"
   text=text
