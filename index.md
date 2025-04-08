@@ -11,15 +11,15 @@
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+커뮤니티매크로 파일 클릭 후, 가장 하단에 있는 <b>빨간색 동그라미 표시</b>에 따라 클릭하여 접속을 합니다.
 
 {% endcapture %}
 
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  link="/"
+  title="프로그램 실행 방법"
   text=text
 %}
 
