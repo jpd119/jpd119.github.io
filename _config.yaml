@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: AutoPro
 subtitle: 
-description: 자동 점프 프로그램
+description: 자동화 점프, 매크로 제작, 사이트 제작, 프로그램 제작
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
