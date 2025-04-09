@@ -78,6 +78,6 @@
 언제든지 <b>카카오톡</b>으로 편하게 문의주세요!  
 친절하게 <b>유선으로 설명</b>해드립니다. 😊
 
-👉 <a href="https://open.kakao.com/o/smGqwlqh" target="_blank">카카오톡 바로가기</a>
+👉 카카오톡 바로가기</a>
 
 ---
