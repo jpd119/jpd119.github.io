@@ -12,6 +12,7 @@
 ## 📌 사용방법 설명
 
 {% capture text %}
+
 🖱️ **커뮤니티 매크로 파일**을 클릭하신 후,  
 가장 하단에 있는 <b>⭕ 빨간색 동그라미 표시</b>를 확인하고 클릭하여 접속해주세요!
 {% endcapture %}
@@ -20,24 +21,26 @@
   include feature.html
   image="images/photo.png"
   link="/"
-  title="📂 프로그램 실행 방법"
+  title="프로그램 실행 방법"
   text=text
 %}
 
 {% capture text %}
+
 프로그램을 실행하면 아래 3개의 창이 자동으로 열립니다:  
 <br>🖥️ 인터넷 브라우저  
 🗔 프로그램창  
 🗔 검은창 (콘솔창)  
 <br><br>⚠️ 이 3개의 창은 항상 켜져 있어야 하며,  
 ✅ <b>검은창은 최소화해두셔도 무방</b>합니다.
+
 {% endcapture %}
 
 {%
   include feature.html
   image="images/photo2.png"
   link="/"
-  title="🔧 실행 시 열리는 창들"
+  title="실행 시 열리는 창들"
   text=text
 %}
 
@@ -66,7 +69,7 @@
   include feature.html
   image="images/photo3.png"
   link="/"
-  title="⚙️ 설정 순서"
+  title="설정 순서"
   text=text
 %}
 
