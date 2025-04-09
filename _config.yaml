@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: AutoPro
 subtitle: 
-description: 자동화 점프, 구인구직 프로그램
+description: 자동화 점프 프로그램
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
