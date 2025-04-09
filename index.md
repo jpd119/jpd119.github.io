@@ -20,7 +20,7 @@
   include feature.html
   image="images/photo.png"
   link="/"
-  title="📂 프로그램 실행 방법"
+  title="프로그램 실행 방법"
   text=text
 %}
 
@@ -37,7 +37,7 @@
   include feature.html
   image="images/photo2.png"
   link="/"
-  title="🔧 실행 시 열리는 창들"
+  title="실행 시 열리는 창들"
   text=text
 %}
 
@@ -66,7 +66,7 @@
   include feature.html
   image="images/photo3.png"
   link="/"
-  title="⚙️ 설정 순서"
+  title="설정 순서"
   text=text
 %}
 
